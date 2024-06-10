@@ -1,0 +1,5 @@
+02_3-1.team_mission.py_solution
+
+    net = imageNet("googlenet") # or alexnet
+    camera = videoSource("csi://0") # Raspberry Pi Camera
+    display = videoOutput("display://0") # Jetson Nano Display
